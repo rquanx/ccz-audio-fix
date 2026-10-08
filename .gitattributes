@@ -1,0 +1,10 @@
+* text=auto
+
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.manifest text eol=lf
+*.rc text eol=lf
+*.bat text eol=crlf
+*.ico binary

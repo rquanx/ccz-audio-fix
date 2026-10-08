@@ -1,0 +1,10 @@
+/build/
+/release/
+/.test-run/
+*.obj
+*.res
+*.exp
+*.lib
+*.dll
+*.pdb
+*.ilk
